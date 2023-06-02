@@ -278,7 +278,7 @@ body
         }
           .btn-3 {
         background: rgb(0,172,238);
-      background: linear-gradient(0deg, rgba(0,172,238,1) 0%, rgba(2,126,251,1) 100%);
+      background: linear-gradient(90deg, rgba(186,3,62,1) 30%, rgba(0,212,255,1) 93%);
         width: 70px;
         height: 40px;
         line-height: 42px;
