@@ -1,2 +1,2 @@
 # stone-paper-
-Well, this is a just simple project made by me with the support of Arnav Chhabra, this project is a childhood game of rock paper and scissors I have used HTML, CSS, and javascript in this project let me know if you got some sort of bugs in it I try to figure it out. 
+"This is a simple project that I created with the support of Arnav Chhabra. It's a childhood game of rock-paper-scissors, and I've used HTML, CSS, and JavaScript in this project. Please let me know if you find any bugs, and I'll do my best to address them."
